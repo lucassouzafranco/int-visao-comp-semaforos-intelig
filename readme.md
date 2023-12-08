@@ -1,7 +1,7 @@
 
 
 ```markdown
-# Integração de Visão Computacional em Semáforos Inteligentes
+Integração de Visão Computacional em Semáforos Inteligentes
 
 Autores: 
 Jocsan Luz
@@ -13,15 +13,15 @@ Filipe Viana
 Projeto prático da disciplina de Inteligência Artificial (SIN 323) da UFV campus Rio Paranaíba.
 Neste projeto, utiliza-se uma rede neural convolucional (CNN) para identificar veículos a partir de imagens de um dataset de câmera veicular.
 
-## Conteúdo
+Conteúdo
 
 arquivo: CAMVID.ipny
 
-## Instalação
+Instalação
 
 git clone https://github.com/lucassouzafranco/visao-comp-semaforos-intelig
 
-## Uso
+Uso
 
 Como Carregar um Arquivo no Google Colab:
 
@@ -34,7 +34,7 @@ Como Carregar um Arquivo no Google Colab:
 4. Processamento do Arquivo:
    Após carregar o arquivo, você pode realizar o processamento necessário usando as bibliotecas ou ferramentas disponíveis no Google Colab.
 
-## Contato
+Contato
 
 - Autor: Lucas Souza
 - Email: lucassouzafranco1@gmail.com
